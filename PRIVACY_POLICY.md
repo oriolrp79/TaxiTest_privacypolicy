@@ -8,17 +8,17 @@ TaxiTestBCN ("we", "our", or "the app") is committed to protecting your privacy.
 
 TaxiTestBCN is designed as an educational tool to help candidates prepare for the metropolitan taxi credential exam in Barcelona.
 
-    No Personal Data Collected: We do not collect, store, transmit, or share any personally identifiable information (such as your name, email address, phone number, location, or device identifiers).
+No Personal Data Collected: We do not collect, store, transmit, or share any personally identifiable information (such as your name, email address, phone number, location, or device identifiers).
 
-    No Account Required: You do not need to register, create an account, or log in to use the application.
+No Account Required: You do not need to register, create an account, or log in to use the application.
 
-    No Tracking or Analytics: The app does not include third-party tracking libraries, advertising SDKs, or user profiling tools.
+No Tracking or Analytics: The app does not include third-party tracking libraries, advertising SDKs, or user profiling tools.
 
 2. Permissions and Local Data
 
-    Offline Operation: The street database, points of interest, and map graphics are bundled locally within the app installation files. The core features of the app function completely offline without requiring access to your contacts, camera, storage files, or precise GPS location.
+Offline Operation: The street database, points of interest, and map graphics are bundled locally within the app installation files. The core features of the app function completely offline without requiring access to your contacts, camera, storage files, or precise GPS location.
 
-    Local Settings: Any test progress, calibration settings, or layer toggles are stored locally on your device and are never transmitted to external servers.
+Local Settings: Any test progress, calibration settings, or layer toggles are stored locally on your device and are never transmitted to external servers.
 
 3. Google Play In-App Updates
 
