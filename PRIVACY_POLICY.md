@@ -1,11 +1,11 @@
-# Privacy Policy for TaxiTestBCN
+# Privacy Policy for TaxiTest
 
 **Last updated:** October 23, 2026
 
-TaxiTestBCN ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains our practices regarding data collection, usage, and information sources when you use our mobile application.
+TaxiTest ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains our practices regarding data collection, usage, and information sources when you use our mobile application.
 
 ### 1. Information Collection and Use
-TaxiTestBCN is designed as an educational tool to help candidates prepare for the metropolitan taxi credential exam in Barcelona.
+TaxiTest is designed as an educational tool to help candidates prepare for the metropolitan taxi credential exam in Barcelona.
 
 - **No Personal Account Required:** You do not need to register, create an account, or log in to use the application.
 - **No Identity Profiles:** We do not collect names, email addresses, phone numbers, or persistent personal user profiles.
@@ -13,7 +13,7 @@ TaxiTestBCN is designed as an educational tool to help candidates prepare for th
 - **User Feedback & Diagnostic Data:** If you choose to voluntarily submit a suggestion, bug report, or feedback through the app, we receive the content of your message along with basic non-personally identifiable diagnostic information (such as device model, operating system version, and timestamp). This information is used exclusively to troubleshoot technical issues, improve app functionality, and respond to user feedback. It is never linked to your identity or shared with third parties.
 
 ### 2. Government Information and Non-Affiliation Disclaimer
-- **Non-Affiliation:** TaxiTestBCN is an independent educational study application. It is NOT affiliated with, endorsed by, authorized by, or in any way officially connected to the Àrea Metropolitana de Barcelona (AMB), the Institut Metropolità del Taxi (IMET), or any public or governmental entity.
+- **Non-Affiliation:** TaxiTest is an independent educational study application. It is NOT affiliated with, endorsed by, authorized by, or in any way officially connected to the Àrea Metropolitana de Barcelona (AMB), the Institut Metropolità del Taxi (IMET), or any public or governmental entity.
 - **Official Information Sources:** The contents, street lists, and points of interest referenced in this app are based on publicly available documentation provided by the official taxi regulatory body (AMB / IMET). You can verify official exam calls, regulations, and source materials directly at:  
 https://taxi.amb.cat/ca/professionals-del-sector/treballar-al-taxi/acces-a-la-professio
 
